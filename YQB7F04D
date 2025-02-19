@@ -1,0 +1,27 @@
+        <!DOCTYPE html>
+        <html>
+          <head>
+            <!-— facebook open graph tags -->
+            <meta property="og:url" content="https://user-ecab760d-7df4-47db-af5b-b2b9e2920a2a-rtkuajd6wq-uw.a.run.app/?p=c5564a9efa"/>
+            <meta property="og:title" content="Title: Random Fun Fact Generator with JavaScript"/>
+            <meta property="og:description" content="Description: Code snippet from a conversation with Pieces for Developers Copilot"/>
+            <meta property="og:site_name" content="gana theeban sent a HTML Snippet - Pieces for Developers"/>
+            <meta property="og:image" content="https://storage.googleapis.com/pieces_static_resources/shareable_links/og_image_illustration.jpg"/>
+            
+            <!-— twitter card tags additive with the og: tags -->
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:title" value="Title: Random Fun Fact Generator with JavaScript" />
+            <meta name="twitter:description" value="Description: Code snippet from a conversation with Pieces for Developers Copilot" />
+            <meta name="twitter:image" content="https://storage.googleapis.com/pieces_static_resources/shareable_links/og_image_illustration.jpg" />
+            <meta name="twitter:url" value="https://user-ecab760d-7df4-47db-af5b-b2b9e2920a2a-rtkuajd6wq-uw.a.run.app/?p=c5564a9efa" />
+            <script>
+              document.onreadystatechange = async () => {
+                if (document.readyState === 'complete') {
+                  // (1) wait for the page to load.
+                  // launch our redirect to v2 sharing
+                  document.location = 'https://shared.code.pieces.app/?compressed=eyJiYXNlIjoiaHR0cHM6Ly91c2VyLWVjYWI3NjBkLTdkZjQtNDdkYi1hZjViLWIyYjllMjkyMGEyYS1ydGt1YWpkNndxLXV3LmEucnVuLmFwcCIsInNoYXJlIjoiYzVhODE2M2ItNTZkNi00YTk2LTllYjAtZmFmZjMwZGJlM2IxIiwiYXNzZXQiOiI4MWE5Y2U5ZS1hZTM3LTQ5YmUtOTZlMC01NmRmMzA3YTZmZjYiLCJuYW1lIjoiZ2FuYSB0aGVlYmFuIiwidGl0bGUiOiJSYW5kb20gRnVuIEZhY3QgR2VuZXJhdG9yIHdpdGggSmF2YVNjcmlwdCIsImRlc2NyaXB0aW9uIjoiQ29kZSBzbmlwcGV0IGZyb20gYSBjb252ZXJzYXRpb24gd2l0aCBQaWVjZXMgZm9yIERldmVsb3BlcnMgQ29waWxvdCIsInVzZXIiOnsic2NoZW1hIjp7Im1pZ3JhdGlvbiI6MCwic2VtYW50aWMiOiJNQUpPUl8wX01JTk9SXzBfUEFUQ0hfMSJ9LCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjJmVDNEWjJVRUsyV0EwV1pTZnA3dDdLNUo5MHUzTFJfaFlpUDZtd1Nfc1BHOVFnPXM5Ni1jIiwiZW1haWwiOiJnYW5hdGhlZWJhbjc3N0BnbWFpbC5jb20iLCJjcmVhdGVkIjp7InZhbHVlIjoiMjAyNS0wMi0xOVQwODowMDoyNy4wMDJaIiwicmVhZGFibGUiOiIxMiBtaW51dGVzIGFnbyJ9LCJ1cGRhdGVkIjp7InZhbHVlIjoiMjAyNS0wMi0xOVQwODowMTozNy4wOTcxMjNaIiwicmVhZGFibGUiOiIxMCBtaW51dGVzIGFnbyJ9LCJpZCI6ImVjYWI3NjBkLTdkZjQtNDdkYi1hZjViLWIyYjllMjkyMGEyYSIsIm5hbWUiOiJnYW5hIHRoZWViYW4iLCJhZXN0aGV0aWNzIjp7InRoZW1lIjp7ImRhcmsiOnRydWV9LCJmb250Ijp7InNpemUiOjE2fX0sImFsbG9jYXRpb24iOnsic2NoZW1hIjp7Im1pZ3JhdGlvbiI6MCwic2VtYW50aWMiOiJNQUpPUl8wX01JTk9SXzBfUEFUQ0hfMSJ9LCJpZCI6ImVjYWI3NjBkLTdkZjQtNDdkYi1hZjViLWIyYjllMjkyMGEyYSIsInVzZXIiOiJlY2FiNzYwZC03ZGY0LTQ3ZGItYWY1Yi1iMmI5ZTI5MjBhMmEiLCJ1cmxzIjp7ImJhc2UiOnsic3RhdHVzIjoiUlVOTklORyIsInVybCI6Imh0dHBzOi8vdXNlci1lY2FiNzYwZC03ZGY0LTQ3ZGItYWY1Yi1iMmI5ZTI5MjBhMmEtcnRrdWFqZDZ3cS11dy5hLnJ1bi5hcHAifSwiaWQiOnsic3RhdHVzIjoiUEVORElORyIsInVybCI6Imh0dHBzOi8vZWNhYjc2MGQtN2RmNC00N2RiLWFmNWItYjJiOWUyOTIwYTJhLnBpZWNlcy5jbG91ZCJ9fSwic3RhdHVzIjp7ImNsb3VkIjoiUlVOTklORyJ9LCJwcm9qZWN0IjoicnVudGltZS11c2VyLWNsb3VkLWdyb3VwLTMwIiwidXBkYXRlZCI6eyJ2YWx1ZSI6IjIwMjUtMDItMTlUMDg6MDA6NDguOTc5ODQ3WiIsInJlYWRhYmxlIjoiMTEgbWludXRlcyBhZ28ifSwidmVyc2lvbiI6IjExLjEuMSIsInJlZ2lvbiI6InVzLXdlc3QxIn0sImF1dGgwIjp7Imdsb2JhbF9pZCI6ImVjYWI3NjBkLTdkZjQtNDdkYi1hZjViLWIyYjllMjkyMGEyYSJ9fX0=&user=ecab760d-7df4-47db-af5b-b2b9e2920a2a';
+                }
+              };
+            </script>
+        </html>
+      
